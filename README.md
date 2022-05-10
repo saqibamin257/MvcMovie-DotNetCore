@@ -1,4 +1,4 @@
-# **MvcMovie-DotNetCore**
+# MvcMovie-DotNetCore
 Asp.net core MVC boiler plate application. It includes CRUD operations using EntityFrameWork first approach.
 
 **Below are the important concepts of this application.**
